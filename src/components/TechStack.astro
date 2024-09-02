@@ -7,11 +7,11 @@ import Icon from "./Icon.astro";
     <div class="skills-container">
         <div class="box skill">
             <Icon icon="html5" color="var(--accent-regular)" size="3.5rem" gradient />
-            <span class="skill-heading">HTML 5</span>
+            <span class="skill-heading">HTML5</span>
         </div>
         <div class="box skill">
             <Icon icon="css3" color="var(--accent-regular)" size="3.5rem" gradient />
-            <span class="skill-heading">CSS</span>
+            <span class="skill-heading">CSS3</span>
         </div>
         <div class="box skill">
             <Icon icon="javascript" color="var(--accent-regular)" size="3.5rem" gradient />
@@ -126,7 +126,7 @@ import Icon from "./Icon.astro";
     }
 
     .skill {
-        width: 20%;
+        width: 25%;
         display: flex;
         gap: 15px;
         flex-direction: column;
@@ -135,10 +135,21 @@ import Icon from "./Icon.astro";
     }
 
     .skill-heading {
-        font-size: 22px;
+        font-size: 14px;
     }
 
     .heading {
         text-align: center;
+    }
+
+    @media (min-width: 720px) {
+        .skill-heading {
+            font-size: 22px;
+        }
+
+        .skill {
+            width: 20%;
+        }
+        
     }
 </style>
