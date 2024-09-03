@@ -18,27 +18,27 @@ This dynamic and visually appealing website showcases your IT company's expertis
 
 The homepage immediately grabs attention with a captivating hero section, highlighting company's core values and services. A clear navigation menu allows visitors to easily explore the website's content.
 
-![Image description](/public/assets/company-portfolio/hp1.png)
-![Image description](/public/assets/company-portfolio/hp2.png)
+![Image description](../../../public/assets/company-portfolio/hp1.png)
+![Image description](../../../public/assets/company-portfolio/hp2.png)
 
 #### Services
 
 The services page provides detailed information about the IT solutions you offer. Each service is presented with engaging visuals and concise descriptions, making it easy for clients to understand the benefits and applications of expertise.
 
-![Image description](/public/assets/company-portfolio/ser1.png)
+![Image description](../../../public/assets/company-portfolio/ser1.png)
 
 #### About Us
 
 The about us page tells the story of company, highlighting mission and vision. Through compelling storytelling and relevant imagery, this page establishes trust and credibility with potential clients.
 
-![Image description](/public/assets/company-portfolio/ab1.png)
-![Image description](/public/assets/company-portfolio/ab2.png)
+![Image description](../../../public/assets/company-portfolio/ab1.png)
+![Image description](../../../public/assets/company-portfolio/ab2.png)
 
 #### Contact
 
 The contact page provides multiple channels for clients to get in touch. A convenient contact form, along with email addresses and phone numbers, ensures easy communication and efficient inquiries
 
-![Image description](/public/assets/company-portfolio/contact.png)
+![Image description](../../../public/assets/company-portfolio/contact.png)
 
 ### Tech & Experience
 
