@@ -5,7 +5,6 @@
 ---
 
 <!-- GitHub Contributions Calendar Component -->
-
 <section class="github-calendar-section box skills">
   <h3>GitHub Contributions</h3>
   <div class="calendar">
@@ -15,7 +14,9 @@
 </section>
 
 <!-- Include the GitHub Calendar library scripts -->
-<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js" client:load></script>
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
+></script>
 
 <!-- <link
    rel="stylesheet"
@@ -23,8 +24,8 @@
 /> -->
 
 <!-- Initialize the GitHub Calendar on load -->
-<script client:load>
-    GitHubCalendar(".calendar", "MilanJulinac42", {responsive: true});
+<script>
+  GitHubCalendar(".calendar", "MilanJulinac42", { responsive: true });
 </script>
 
 <style>
@@ -38,18 +39,18 @@
     max-width: 800px;
     margin: auto;
   }
-      .box {
-		border: 1px solid var(--gray-800);
-		border-radius: 0.75rem;
-		padding: 1.5rem;
-		background-color: var(--gray-999_40);
-		box-shadow: var(--shadow-sm);
-	}
+  .box {
+    border: 1px solid var(--gray-800);
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    background-color: var(--gray-999_40);
+    box-shadow: var(--shadow-sm);
+  }
 
-	.skills {
-		display: flex;
-		flex-direction: column;
-		gap: 3rem;
-        width: 100%;
-	}
+  .skills {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    width: 100%;
+  }
 </style>
