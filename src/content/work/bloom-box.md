@@ -18,6 +18,9 @@ tags:
 
 A dynamic, fully responsive website designed for browsing movies, tv shows and movie celebrities. Contains data from an open source database, you can go to a webpage of a specific movie, tv show or a celeb where you can find various data regarding those entities, ranging from user score, profit, description and trailer for movies and shows to biography and credits for celebs.
 
+![Image description](/public/assets/movie/mov1.png)
+![Image description](/public/assets/movie/mov2.png)
+
 ### Tech & Experience
 
 I made this using React.js with hooks for managing and transferring data through components. Regarding style, I used a mixture of react styled components, inline css and classic css. Data was pulled from third party open source database.

@@ -1,35 +1,25 @@
 ---
-title: Some Random Test
+title: Cameo Clone Backend
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/code.jpg
+img_alt: Code
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Cameo like clone, backend only (under development).
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Backend
+  - Databases
+  - NestJs
+  - Firebase
 ---
 
-## Level-two heading
+### Description
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+This backend project is built using NestJS, a popular Node.js framework known for its modular architecture and efficiency. It serves as the foundation for a Cameo-like clone, providing the necessary APIs and services for users to interact with the platform.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+### Tech & Experience
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+This backend project was built using NestJS, a popular Node.js framework known for its modular architecture and efficiency. NestJS provided a solid foundation for the project, allowing me to organize the code into well-defined modules and components. For authentication, I integrated Firebase, a reliable and secure authentication solution. PostgreSQL was chosen as the primary database, offering a robust and scalable option for storing user data, video requests, and other relevant information. To simplify database interactions and reduce boilerplate code, I employed TypeORM, a powerful object-relational mapper.
 
-### Level-three heading
+Through this project, I gained a deeper understanding of backend development principles and practices. I became proficient in using NestJS to build modular and scalable Node.js applications. This project has been invaluable in expanding my knowledge of modern backend development technologies and preparing me for building complex and scalable applications.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
-
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+##### You can also find the code on GitHub: <u>[Code](https://github.com/MilanJulinac42/pozdravzvezda-server)</u>

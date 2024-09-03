@@ -1,0 +1,5 @@
+work:
+    Cameo clone (under development) - Backend Code - nestjs postgresql firebase
+    professional-portfolio - samo front, radjeno u nextu
+    gift-basket - bekend, admin portal | nodejs mongodb | reactjs tailwind
+    FullStack-MERN-App - mongodb, nodejs, reactjs
