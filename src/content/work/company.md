@@ -3,8 +3,7 @@ title: IT company website
 img: /assets/company.png
 img_alt: Screenshot of a company website landing page
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  I developed a website for imaginary IT company.
 tags:
   - Design
   - Next.js
