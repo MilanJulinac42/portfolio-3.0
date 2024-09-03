@@ -490,5 +490,6 @@ text.ContributionCalendar-label {
     .table-column {
         display: block;
         width: 100%;
+		display: none;
     }
 }
