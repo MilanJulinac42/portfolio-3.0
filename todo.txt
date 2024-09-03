@@ -3,3 +3,10 @@ work:
     professional-portfolio - samo front, radjeno u nextu
     gift-basket - bekend, admin portal | nodejs mongodb | reactjs tailwind
     FullStack-MERN-App - mongodb, nodejs, reactjs
+
+cert:
+    NestJS Fundamentals
+    NestJs GraphQL code first
+    Next.js 14 & React - The Complete Guide
+    GraphQL with React: The Complete Developers Guide
+
