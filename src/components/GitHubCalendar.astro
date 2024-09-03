@@ -1,0 +1,55 @@
+---
+// GitHubCalendar.astro
+
+// Import necessary libraries or modules if needed
+---
+
+<!-- GitHub Contributions Calendar Component -->
+
+<section class="github-calendar-section box skills">
+  <h3>GitHub Contributions</h3>
+  <div class="calendar">
+    <!-- Loading message, will be replaced by the calendar -->
+    Loading the data just for you.
+  </div>
+</section>
+
+<!-- Include the GitHub Calendar library scripts -->
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js" client:load></script>
+
+<!-- <link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/> -->
+
+<!-- Initialize the GitHub Calendar on load -->
+<script client:load>
+    GitHubCalendar(".calendar", "MilanJulinac42", {responsive: true});
+</script>
+
+<style>
+  .github-calendar-section {
+    margin-top: 2rem;
+    text-align: center;
+  }
+
+  .calendar {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+  }
+      .box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+        width: 100%;
+	}
+</style>
